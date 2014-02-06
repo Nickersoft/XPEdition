@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="xpedition">
+</Property><Property Name="Solution File" Value="F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\xpedition.sln">
+</Property><Property Name="User Options File" Value="F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\xpedition.suo">
+</Property><Property Name="Date" Value="Thursday, June 24, 2010">
+</Property><Property Name="Time" Value="12:06 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="xpedition.sln" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\xpedition.sln">
+</Event><Event ErrorLevel="0" Project="" Source="xpedition.suo" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\xpedition.suo">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="xpedition.vbproj" Description="Project file successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\xpedition.vbproj">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="xpedition.vbproj.user" Description="Project user file successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\xpedition.vbproj.user">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="About.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\About.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="About.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\About.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="beef.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\beef.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="beef.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\beef.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Bookmarks.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Bookmarks.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Bookmarks.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Bookmarks.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="browser.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\browser.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="browser.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\browser.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="CantLogin.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\CantLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="CantLogin.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\CantLogin.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="chatter.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\chatter.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="chatter.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\chatter.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="colors.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\colors.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="colors.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\colors.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Contacts.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Contacts.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Contacts.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Contacts.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Customize.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Customize.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Customize.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Customize.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="email.designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\email.designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="email.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\email.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ErrorReporting.designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ErrorReporting.designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ErrorReporting.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ErrorReporting.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Loading.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Loading.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Loading.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Loading.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Login.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Login.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Login.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Application.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newcontact.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newcontact.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newcontact.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newcontact.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newuser.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newuser.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newuser.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newuser.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Search.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Search.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Search.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Search.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Splash.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Splash.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Splash.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Splash.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="UserControl.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\UserControl.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="UserControl.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\UserControl.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="userlist.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\userlist.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="userlist.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\userlist.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ViewAttach.Designer.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ViewAttach.Designer.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ViewAttach.vb" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ViewAttach.vb">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="app.config" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\app.config">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\app.manifest" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Application.myapp" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Settings.settings" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Resources\glassstrip.png" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Resources\glassstrip.png">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="connection-reseaux-Baggs.ico" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\connection-reseaux-Baggs.ico">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="version.txt" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\version.txt">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="About.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\About.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="beef.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\beef.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Bookmarks.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Bookmarks.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="browser.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\browser.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="CantLogin.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\CantLogin.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="chatter.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\chatter.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="colors.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\colors.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Contacts.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Contacts.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Customize.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Customize.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="email.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\email.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ErrorReporting.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ErrorReporting.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Loading.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Loading.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Login.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Login.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="My Project\Resources.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newcontact.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newcontact.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="newuser.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\newuser.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Search.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Search.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="Splash.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\Splash.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="UserControl.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\UserControl.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="userlist.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\userlist.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="ViewAttach.resx" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\ViewAttach.resx">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="crystalhigh.mid" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\crystalhigh.mid">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="glassstrip.png" Description="File successfully backed up as F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Backup1\glassstrip.png">
+</Event><Event ErrorLevel="0" Project="xpedition" Source="xpedition.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="xpedition" Source="xpedition.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="xpedition.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="xpedition.sln" Description="Converted">
+</Event></UpgradeLog>

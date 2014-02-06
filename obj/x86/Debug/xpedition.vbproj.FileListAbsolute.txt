@@ -1,0 +1,181 @@
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\xpedition.exe
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\xpedition.pdb
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\xpedition.xml
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.beef.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.browser.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.Login.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.Resources.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.exe
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.xml
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.pdb
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.colors.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.newuser.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.userlist.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\xpedition.exe.config
+E:\my documents\visual studio 2010\Projects\xpedition\xpedition\bin\Debug\XPEdition.exe.config
+E:\my documents\visual studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.exe
+E:\my documents\visual studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.xml
+E:\my documents\visual studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.pdb
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.Report.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.Customize.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.email.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\app.config
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Bookmarks.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\crystalhigh.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\glassstrip.png
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.About.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.CDO.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.vbproj.ResolveComReference.cache
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Splash.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Resources\glassstrip.png
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ViewAttach.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.UserControl.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\version.txt
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Contacts.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.newcontact.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Loading.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CantLogin.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.chatter.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Interop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\AxInterop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Search.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.CDO.dll
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.vbproj.ResolveComReference.cache
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Acura RSX.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Cadillac Sixty Special.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Exotic Racer.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Golden Honey.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Jaguar.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Muscle Car.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Ready to Roll.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Rinspeed Sunset.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\Sleek 'n Shiny.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Cars\White Horizon.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Cinderella's Castle.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Dunguaire.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Dunluce.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Himeji.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Hogwarts.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Neuschwanstein II.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Neuschwanstein.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Northumberland.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\Off At Sea.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Castles\On The Water's Edge.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\African Goddess.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Beach Babe.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Beauty Queen.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Black Beauty.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Elisha Cuthbert.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Innocence.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Jessica Alba.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Looking Down.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Marie.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Girls\Perfection.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Deep Blue.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Desert.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Leeds.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Mirror Lake.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Misty Pond.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Mountain and Lake.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Mountain Sunset.jpeg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Orange Peaks.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Reflecting Pool.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Nature and Wildlife\Shady Palm.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Linux Ubuntu.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Mac OS X.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Macintosh Tiger.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows 2000.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows 3.11.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows 7.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows 95.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows Vista Ultimate.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows Vista.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Operating Systems\Windows XP.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Explosion.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\God's Domain.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Horse Head.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Hubble.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Nebula.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Purple Space.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Sun on the Horizon.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\Supernova.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\The Red Eye.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Wallpapers\Space\The Red Planet.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.EditBmark.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.sethomepage.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ViewContact.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.viewsource.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ToLetYaKnow.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CurrentPassword.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\logoffmidi.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\logonmidi.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\logonwav.wav
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\logoffwav.wav
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Cell.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CellText.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.About.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.beef.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Bookmarks.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.browser.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CantLogin.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Cell.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CellText.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.chatter.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.colors.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Contacts.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.CurrentPassword.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Customize.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.EditBmark.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.email.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Report.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Loading.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Login.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.MyRSS.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ReceiveEmail.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ToLetYaKnow.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Resources.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.newcontact.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.newuser.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Weatherl.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Search.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.sethomepage.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Splash.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.UserControl.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.userlist.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ViewAttach.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ViewContact.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.viewsource.resources
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.Redemption.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.ReceiveEmail.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Weatherl.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Form1.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\globe.ico
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\XPEdition.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\XPEdition.application
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.application
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\xphelp.bmp
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\xphelp.cnt
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\XPHELP.HLP
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\xphelp.hpj
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\xphelp.log
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\Help\xphelp.rtf
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.Welcome.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.pcsetup.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.g.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Debug\XPEdition.exe.config
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.CDO.dll
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\xpedition.vbproj.ResolveComReference.cache
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.exe
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.xml
+H:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Debug\XPEdition.pdb

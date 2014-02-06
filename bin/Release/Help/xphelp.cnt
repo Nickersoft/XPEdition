@@ -1,0 +1,9 @@
+:Base xphelp.hlp
+:Title XPEdition Help
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 Welcome=SHM_contents9999@xphelp.hlp
+1 Getting Started
+1 Login and User Accounts =SHM_contents0001@xphelp.hlp
+1 The Interface=SHM_contents0002@xphelp.hlp
+1 Known Limitations=SHM_contents0003@xphelp.hlp

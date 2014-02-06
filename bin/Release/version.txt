@@ -1,0 +1,21 @@
+1.0.0.0
+
+                Dim colortxt As String = medirectory + "\" + Login.UsernameTextBox.Text + "\userinfo\backcolor.txt"
+                Dim coloreader As String
+                coloreader = My.Computer.FileSystem.ReadAllText(colortxt)
+                Label3.Text = coloreader
+                Me.BackColor = Color.FromName(Label3.Text)
+
+				Dim hometxt As String = medirectory + "\" + Login.UsernameTextBox.Text + "\userinfo\homepage.txt"
+        If IO.File.Exists(hometxt) Then
+            Dim homereader As String
+            homereader = My.Computer.FileSystem.ReadAllText(hometxt)
+            ToolStripTextBox1.Text = hometxt
+            If homereader = "" Then
+                newbrowser.mainbrowser.Url = New Uri("http://www.nickersoft.webs.com")
+            Else
+                newbrowser.mainbrowser.Url = New Uri(homereader)
+            End If
+        Else
+            newbrowser.mainbrowser.Url = New Uri("http://www.nickersoft.webs.com")
+        End If

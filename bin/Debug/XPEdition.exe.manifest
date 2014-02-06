@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.2" name="XPEdition.exe" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="connection-reseaux-Baggs.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="XPEdition" version="2.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="XPEdition.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.MSWinsockLib.dll" size="12800">
+      <assemblyIdentity name="AxInterop.MSWinsockLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>gbnBjzTVAQGHiQQaEUwNdfjaE+g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.MSWinsockLib.dll" size="16896">
+      <assemblyIdentity name="Interop.MSWinsockLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>YTCu38GBx60UqZerdrXLZfE/mmk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XPEdition.exe" size="6357504">
+      <assemblyIdentity name="XPEdition" version="2.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>iT+2NWlv2Uk7wvdtDlMFSr7qO0s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="connection-reseaux-Baggs.ico" size="243116">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Pb0vHgFd2bfm9RGth/Zs27xUxbQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="globe.ico" size="196157">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b7hebbYYeT3MPJcljvkVzeAqy4k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Help\xphelp.bmp" size="196662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KbFTCIZ/IJfpkqe3zbI3AgLLEh0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\check-mark-copy.ico" size="161862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Pp7apO33k0jXvHF2Zi+56k+Ntqw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\check-mark-copy-icon.png" size="3434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HWAPwgHiEgPywObnzIWX2VZZaDk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Error.ico" size="404086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>eRoXZTtdG/ZfV2MjDf5sIelwW98=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="version.txt" size="7">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CTaDSPVN5zYBI3xmyPaQ9/HkEwI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Acura RSX.jpg" size="76722">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1L+EmSmXpovqo2H4dAJbpwefTPE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Cadillac Sixty Special.jpg" size="296586">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Relw7uBwAwTwSkDr2knisQw1qls=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Exotic Racer.jpg" size="86673">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>U3cmL14yFD9oF3soVyFMLKrwwBY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Golden Honey.jpg" size="270705">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YSfhPduy/8lY5/aDo+xYeMVKoLE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Jaguar.jpg" size="51088">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vML+n+Gqws+TDyZlZjbch91sL18=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Muscle Car.jpg" size="930348">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/rvJ4/5E90I6ILlzkMvFYlXn2Z8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Ready to Roll.JPG" size="402535">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RnoHZ/VQoS3DmUaBcGDCRHUeWjM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Rinspeed Sunset.jpg" size="169871">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9VfDoWhHxRVgT2YkJykSL12J9/4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\Sleek 'n Shiny.jpg" size="133572">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kWyp6a5i9O3yHg8aB/UXzB9I1uE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Cars\White Horizon.JPG" size="152258">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lG6xEd1kw4dosez88cwnyYoW+0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Cinderella's Castle.jpg" size="614241">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cQwytjegOvrFoAwe2+80YI0vhwA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Dunguaire.jpg" size="389343">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pO36OKZUNfq9hdy6wNHGZY288eY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Dunluce.jpg" size="643826">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>t7Sxh3nWcFOvhadCCYrH1wUoGiU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Himeji.jpg" size="309271">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qxTXGC6BhmcRl9WFeRVpDU1LAFA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Hogwarts.jpg" size="975727">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mhsShZW9i6qj5Sn7slevROsjWJ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Neuschwanstein II.jpg" size="199755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PQUKFm1PsAJLAo5NK/ciawYsO/Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Neuschwanstein.jpg" size="132787">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NvozgzMm1ySyDaUg5CgiPNfumLk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Northumberland.jpg" size="573162">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>18YWsjmiyR3JQnabyAsW7o2NDGM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\Off At Sea.jpg" size="369200">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>82v+t4T7HA79/7zG6gQQOT7euRM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Castles\On The Water's Edge.jpg" size="76843">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>a9CCGwWG/qDb/RSd2s7K0Y5oTwY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\African Goddess.jpg" size="597141">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DmotHGzaQBvObjlP7lrj9Ab1JKk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Beach Babe.jpg" size="363017">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iWQpPLj1BwnRz0oPROJu8SBc1dI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Beauty Queen.jpg" size="267515">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>07ImeSaFB15CrOe8yes0D7lwGfk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Black Beauty.jpg" size="436556">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UKSJGjzU1+FgRg+rLfnqN9glTww=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Elisha Cuthbert.jpg" size="281291">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Qqpegh1m4mYFlf+iPyNw+ZtPULc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Innocence.jpg" size="290349">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dx+Bu90eMK66YmVv7cSDNAP/81g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Jessica Alba.jpg" size="428920">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UX7uVfi+BQBbw9NqJNgMghl0hro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Looking Down.jpg" size="343503">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1+vE1hFU5M6mJAKJvrklTU5U8B8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Marie.jpg" size="216488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Nc3hdMJVPXCe35PW5kx1G6NnmUM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Girls\Perfection.jpg" size="197300">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Ljjq3VWEtLcdcAJpvsKr9mG1lAo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Deep Blue.JPG" size="139717">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nDYi34d6ZBwcEuTsxNe/dfroVUE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Desert.JPG" size="303410">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zYKZfiPonktMNm0/tbvXZ0nG6vs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Leeds.jpg" size="1057157">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BagNWPiYlZJjYQjroLD8x+PNdEE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Mirror Lake.jpg" size="1837872">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YuG5DgFeJ78xXGAZ0y9yHRJS/f0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Misty Pond.JPG" size="1401210">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>T2eL0v48I0s84aiveogVUpfPTV8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Mountain and Lake.jpg" size="86001">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ffWrbxZ36SpusbkZOrKWegL8n+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Mountain Sunset.jpeg" size="243033">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vXjLMMCr+iM9iJeN099V8VELz2U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Orange Peaks.JPG" size="189779">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uyo2GR0y0DzHfG+66YRRC7lfppM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Reflecting Pool.JPG" size="155112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AQc03s//be8dqWmQRhQvp+hAaeI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Nature and Wildlife\Shady Palm.JPG" size="218694">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tnCxbUt6XfwcKPuBuKWu8VRphBs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Linux Ubuntu.JPG" size="501764">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>G2lWT9VsAVnOKpxz0iR7ctlDfkg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Mac OS X.jpg" size="236153">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wwpcqEd1zn/8iGf90/C74j7TPso=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Macintosh Tiger.jpg" size="883405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SoemdKN1vWpe6KOL3BqFZmOzI+M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows 2000.jpg" size="75998">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>M9XnGznq2rcV2epiAcjIj5VbAAY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows 3.11.jpg" size="102574">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9MaeVuZuAV3NH6bGqJNMenV+4sI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows 7.jpg" size="656050">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xhYaZnQMD7aLfjNwM+lds6JM8Mo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows 95.jpg" size="44737">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oQjG04cuT2C1YkoSa0P0AfCeAZk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows Vista Ultimate.jpg" size="1353748">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wsUXaxDFkn3a5yEDLS2+jEDzSVQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows Vista.jpg" size="120314">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ecVuDH5oIsYtofMSFpZpe9bSwh4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Operating Systems\Windows XP.jpg" size="52313">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Uu2+AW/U89B6sHROxPJMag0FLVg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Explosion.jpg" size="212503">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JXl+C93ryr8FnpISnzAUVLgZaXs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\God's Domain.jpg" size="154226">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RK2JXGTQTN/5lOxxsdZ8vitHqUU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Horse Head.jpg" size="1278075">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7vMJmQ1jLgdhjvpVSJItbi4gLzw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Hubble.jpg" size="319596">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vt9YIO4+7t2P2eenMdK+wfSdH8o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Nebula.JPG" size="1089907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1sE9uTyl2CMvS9Sv/yzGlvDnVu8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Purple Space.jpg" size="448142">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2eKocosm9mPdcwuYoDxy6dDqkxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Sun on the Horizon.jpg" size="130165">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uGmbfPogh74POQKaRQFXtnlLOnk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\Supernova.jpg" size="67477">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Rfx0UcQ+BYUFSB37fYzhaPH5tLc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\The Red Eye.jpg" size="678988">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p8fN6ZrNEsik4PAXazfHMYtL85k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wallpapers\Space\The Red Planet.jpg" size="171997">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IMkAN+LtBcxIqshGU0LyrGfNGKk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="XPEdition.exe.config" size="4245">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JDvUhUmwHIQzKoJ3nHbdunJ9Zt8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+</asmv1:assembly>

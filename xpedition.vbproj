@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{918D874C-03E6-4E4F-8516-B5D77CCFB85E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>XPEdition.My.MyApplication</StartupObject>
+    <RootNamespace>XPEdition</RootNamespace>
+    <AssemblyName>XPEdition</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>XPEdition.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>XPEdition.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>connection-reseaux-Baggs.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AEE7F29B13B45500D07A9FE12801150FF373905C</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>xpedition_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MSDATASRC, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="beef.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beef.Designer.vb">
+      <DependentUpon>beef.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bookmarks.Designer.vb">
+      <DependentUpon>Bookmarks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bookmarks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browser.Designer.vb">
+      <DependentUpon>browser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="browser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CantLogin.Designer.vb">
+      <DependentUpon>CantLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CantLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cell.Designer.vb">
+      <DependentUpon>Cell.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cell.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CellText.Designer.vb">
+      <DependentUpon>CellText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CellText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chatter.Designer.vb">
+      <DependentUpon>chatter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="chatter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="colors.Designer.vb">
+      <DependentUpon>colors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="colors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contacts.Designer.vb">
+      <DependentUpon>Contacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CurrentPassword.Designer.vb">
+      <DependentUpon>CurrentPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CurrentPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customize.Designer.vb">
+      <DependentUpon>Customize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBmark.Designer.vb">
+      <DependentUpon>EditBmark.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditBmark.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="email.designer.vb">
+      <DependentUpon>email.vb</DependentUpon>
+    </Compile>
+    <Compile Include="email.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorReporting.designer.vb">
+      <DependentUpon>ErrorReporting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorReporting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pcsetup.Designer.vb">
+      <DependentUpon>pcsetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pcsetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiveEmail.Designer.vb">
+      <DependentUpon>ReceiveEmail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReceiveEmail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToLetYaKnow.Designer.vb">
+      <DependentUpon>ToLetYaKnow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ToLetYaKnow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="newcontact.Designer.vb">
+      <DependentUpon>newcontact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newcontact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newuser.Designer.vb">
+      <DependentUpon>newuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="newuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Weatherl.Designer.vb">
+      <DependentUpon>Weatherl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Weatherl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.Designer.vb">
+      <DependentUpon>Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sethomepage.Designer.vb">
+      <DependentUpon>sethomepage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sethomepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.vb">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl.Designer.vb">
+      <DependentUpon>UserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userlist.Designer.vb">
+      <DependentUpon>userlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="userlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAttach.Designer.vb">
+      <DependentUpon>ViewAttach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAttach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewContact.Designer.vb">
+      <DependentUpon>ViewContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewsource.Designer.vb">
+      <DependentUpon>viewsource.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewsource.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.vb">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beef.resx">
+      <DependentUpon>beef.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bookmarks.resx">
+      <DependentUpon>Bookmarks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browser.resx">
+      <DependentUpon>browser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CantLogin.resx">
+      <DependentUpon>CantLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cell.resx">
+      <DependentUpon>Cell.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CellText.resx">
+      <DependentUpon>CellText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chatter.resx">
+      <DependentUpon>chatter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="colors.resx">
+      <DependentUpon>colors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contacts.resx">
+      <DependentUpon>Contacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CurrentPassword.resx">
+      <DependentUpon>CurrentPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customize.resx">
+      <DependentUpon>Customize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBmark.resx">
+      <DependentUpon>EditBmark.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="email.resx">
+      <DependentUpon>email.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorReporting.resx">
+      <DependentUpon>ErrorReporting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pcsetup.resx">
+      <DependentUpon>pcsetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceiveEmail.resx">
+      <DependentUpon>ReceiveEmail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToLetYaKnow.resx">
+      <DependentUpon>ToLetYaKnow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newcontact.resx">
+      <DependentUpon>newcontact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newuser.resx">
+      <DependentUpon>newuser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Weatherl.resx">
+      <DependentUpon>Weatherl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sethomepage.resx">
+      <DependentUpon>sethomepage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl.resx">
+      <DependentUpon>UserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userlist.resx">
+      <DependentUpon>userlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAttach.resx">
+      <DependentUpon>ViewAttach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewContact.resx">
+      <DependentUpon>ViewContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewsource.resx">
+      <DependentUpon>viewsource.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\xphelp.cnt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\XPHELP.HLP">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\xphelp.hpj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\xphelp.log">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Help\xphelp.rtf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xpedition_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="connection-reseaux-Baggs.ico" />
+    <None Include="Resources\My_Computer.png" />
+    <None Include="Resources\Computer-icon.png" />
+    <EmbeddedResource Include="logoffmidi.mid">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logonmidi.mid">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logonwav.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logoffwav.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="globe.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Help\xphelp.bmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Registry Actions.dll" />
+    <Content Include="Resources\check-mark-copy-icon.png" />
+    <None Include="Resources\check-mark-copy-icon1.png" />
+    <Content Include="Resources\check-mark-copy.ico" />
+    <None Include="Resources\Error-icon.png" />
+    <Content Include="Resources\Error.ico" />
+    <None Include="Resources\window-full-screen-icon.png" />
+    <None Include="Resources\window-no-full-screen-icon.png" />
+    <Content Include="version.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Acura RSX.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Cadillac Sixty Special.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Exotic Racer.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Golden Honey.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Jaguar.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Muscle Car.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Ready to Roll.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Rinspeed Sunset.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\Sleek %27n Shiny.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Cars\White Horizon.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Cinderella%27s Castle.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Dunguaire.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Dunluce.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Himeji.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Hogwarts.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Neuschwanstein II.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Neuschwanstein.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Northumberland.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\Off At Sea.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Castles\On The Water%27s Edge.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\African Goddess.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Beach Babe.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Beauty Queen.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Black Beauty.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Elisha Cuthbert.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Innocence.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Jessica Alba.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Looking Down.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Marie.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Girls\Perfection.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Deep Blue.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Desert.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Leeds.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Mirror Lake.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Misty Pond.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Mountain and Lake.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Mountain Sunset.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Orange Peaks.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Reflecting Pool.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Nature and Wildlife\Shady Palm.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Linux Ubuntu.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Mac OS X.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Macintosh Tiger.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows 2000.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows 3.11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows 7.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows 95.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows Vista Ultimate.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows Vista.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Operating Systems\Windows XP.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Explosion.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\God%27s Domain.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Horse Head.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Hubble.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Nebula.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Purple Space.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Sun on the Horizon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\Supernova.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\The Red Eye.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Wallpapers\Space\The Red Planet.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\glassstrip.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <EmbeddedResource Include="crystalhigh.mid">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="glassstrip.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000205-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxMSWinsockLib">
+      <Guid>{248DD890-BB45-11CF-9ABC-0080C7E7B78D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="CDO">
+      <Guid>{CD000000-8B95-11D1-82DB-00C04FB1625D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSWinsockLib">
+      <Guid>{248DD890-BB45-11CF-9ABC-0080C7E7B78D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Redemption">
+      <Guid>{2D5E2D34-BED5-4B9F-9793-A31E26E6806E}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

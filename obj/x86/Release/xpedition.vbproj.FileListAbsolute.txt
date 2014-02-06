@@ -1,0 +1,132 @@
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\app.config
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.exe.config
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.exe
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.pdb
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.xml
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\ResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.beef.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.browser.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.colors.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Customize.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.email.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Report.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Login.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Resources.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.newuser.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.userlist.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\GenerateResource.read.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\GenerateResource.write.1.tlog
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.exe
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.xml
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.pdb
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\Interop.CDO.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\Interop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\AxInterop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\xpedition.vbproj.ResolveComReference.cache
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\globe.ico
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Registry Actions.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\version.txt
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Acura RSX.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Cadillac Sixty Special.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Exotic Racer.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Golden Honey.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Jaguar.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Muscle Car.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Ready to Roll.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Rinspeed Sunset.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\Sleek 'n Shiny.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Cars\White Horizon.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Cinderella's Castle.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Dunguaire.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Dunluce.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Himeji.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Hogwarts.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Neuschwanstein II.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Neuschwanstein.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Northumberland.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\Off At Sea.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Castles\On The Water's Edge.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\African Goddess.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Beach Babe.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Beauty Queen.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Black Beauty.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Elisha Cuthbert.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Innocence.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Jessica Alba.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Looking Down.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Marie.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Girls\Perfection.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Deep Blue.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Desert.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Leeds.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Mirror Lake.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Misty Pond.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Mountain and Lake.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Mountain Sunset.jpeg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Orange Peaks.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Reflecting Pool.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Nature and Wildlife\Shady Palm.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Linux Ubuntu.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Mac OS X.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Macintosh Tiger.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows 2000.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows 3.11.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows 7.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows 95.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows Vista Ultimate.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows Vista.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Operating Systems\Windows XP.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Explosion.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\God's Domain.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Horse Head.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Hubble.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Nebula.JPG
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Purple Space.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Sun on the Horizon.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\Supernova.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\The Red Eye.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Wallpapers\Space\The Red Planet.jpg
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\logoffmidi.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\logonmidi.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\crystalhigh.mid
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\logonwav.wav
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\logoffwav.wav
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\glassstrip.png
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Resources\glassstrip.png
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\XPEdition.application
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Interop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\AxInterop.MSWinsockLib.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\Interop.Redemption.dll
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.About.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Bookmarks.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.CantLogin.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Cell.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.CellText.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.chatter.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Contacts.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.CurrentPassword.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.EditBmark.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Form1.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Loading.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.MyRSS.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.ReceiveEmail.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.ToLetYaKnow.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.newcontact.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Weatherl.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Search.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.sethomepage.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Splash.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.UserControl.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.ViewAttach.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.ViewContact.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.viewsource.resources
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.exe.manifest
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.application
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\xphelp.bmp
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\xphelp.cnt
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\XPHELP.HLP
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\xphelp.hpj
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\xphelp.log
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\bin\Release\Help\xphelp.rtf
+F:\My Documents\Visual Studio 2010\Projects\xpedition\xpedition\obj\x86\Release\XPEdition.Welcome.resources

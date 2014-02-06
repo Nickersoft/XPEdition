@@ -1,0 +1,26 @@
+[OPTIONS]
+CNT=xphelp.cnt
+ERRORLOG=F:\My Documents\XPHelp\xphelp.log
+NOTES=yes
+REPORT=yes
+TITLE=XPEdition Help
+COMPRESS=1
+OLDKEYPHRASE=NO
+CONTENTS=SHM_contents9999
+COPYRIGHT=Made with Shalom Help Maker www.danish-shareware.dk/soft/shelpm/
+
+[FILES]
+F:\My Documents\XPHelp\xphelp.rtf
+
+[CONFIG]
+BrowseButtons()
+CreateButton(btn_frontpage, Welcome, JumpId(xphelp.hlp, SHM_contents9999))
+
+[WINDOWS]
+main="XPEdition Help",(36,47,533,521),52228,(r16777215),(r15643805),f2
+
+[MAP]
+SHM_contents9999 9999
+SHM_contents0001 1
+SHM_contents0002 2
+SHM_contents0003 3
